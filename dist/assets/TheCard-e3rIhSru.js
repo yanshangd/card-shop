@@ -1,1 +1,0 @@
-import{_ as r}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{b as o,e as s,Q as t}from"./index-Du1k3Ulm.js";const c={},a={class:"card"};function n(e,_){return o(),s("div",a,[t(e.$slots,"default")])}const l=r(c,[["render",n]]);export{l as T};
